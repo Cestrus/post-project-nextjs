@@ -1,6 +1,6 @@
 import { createPortal } from 'react-dom';
 import { RequestStatusType } from '../contact/ContactForm';
-import styles from './notification.module.css';
+import styles from './Notification.module.css';
 import { INotificationProps } from './Notification.props';
 
 export type NotificationType = {
